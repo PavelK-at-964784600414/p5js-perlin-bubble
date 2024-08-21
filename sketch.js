@@ -1,6 +1,6 @@
 let particleSystem;
 let phase = 0;
-let amount = 150000;
+let amount = 5000;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
